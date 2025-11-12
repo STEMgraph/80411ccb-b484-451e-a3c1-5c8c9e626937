@@ -1,6 +1,7 @@
 <!---
 {
   "id": "e2b7c9f1-4d2a-4a3e-9f1b-2c3d4e5f6a7b",
+  "teaches": "Storing Functions",
   "depends_on": [],
   "author": "Exercise Sheet Assistant",
   "first_used": "2025-05-08",
